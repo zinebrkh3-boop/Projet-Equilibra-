@@ -1,7 +1,10 @@
-// Ici, vous pouvez ajouter les codes pour le Lab 6
-console.log("Projet Équilibra chargé !");
+// Initialisation du Projet Équilibra
+console.log("Projet Équilibra chargé avec succès !");
 
-// Exemple d'interaction simple
+// Fonction pour interagir avec l'utilisateur
 document.body.addEventListener('click', () => {
-    console.log("Clic sur la page détecté");
+    console.log("Interaction détectée sur la page");
 });
+
+// Message de bienvenue dans la console
+console.log("Bienvenue sur la plateforme dédiée à votre bien-être.");
