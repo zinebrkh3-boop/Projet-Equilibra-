@@ -1,7 +1,7 @@
-// يمكنك إضافة الأكواد الخاصة بـ Lab 6 هنا
+// Ici, vous pouvez ajouter les codes pour le Lab 6
 console.log("Projet Équilibra chargé !");
 
-// مثال بسيط للتفاعل
+// Exemple d'interaction simple
 document.body.addEventListener('click', () => {
-    console.log("تم النقر على الصفحة");
+    console.log("Clic sur la page détecté");
 });
